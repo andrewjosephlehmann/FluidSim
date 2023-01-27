@@ -1,9 +1,11 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-#Simulate flow past cylinder
-#for an isothermal fluid
-
+"""
+Feel free to edit this code to your liking. :)
+Simulate flow past cylinder
+for an isothermal fluid
+"""
 
 def main():
 	
