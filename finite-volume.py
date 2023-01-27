@@ -2,10 +2,9 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 """
-
+Feel free to edit this code to your liking. :)
 Simulate the Kelvin Helmholtz Instability
-In the compressible Euler equations
-
+In the compressible Euler equation
 """
 
 
